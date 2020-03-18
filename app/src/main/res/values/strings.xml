@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">helloworld</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="picture">Picture</string>
+    <string name="red">red</string>
+    <string name="black">black</string>
 </resources>
